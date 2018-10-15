@@ -1,5 +1,9 @@
 {
     "name": "Player",
+    "permissions": {
+        "gpio": "yes",
+        "serial": "yes"
+    },
     "options": [{
         "title": "Configuration",
         "type": "section"
